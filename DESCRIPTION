@@ -1,0 +1,13 @@
+Package: lp
+Type: Package
+Title: This is a  package of liupan.
+Version: 0.1.1
+Author: pan liu
+Maintainer: liu pan <panliu666@sjtu.edu.cn>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Dependents: MASS
+RoxygenNote: 7.1.2
